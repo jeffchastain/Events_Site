@@ -1,0 +1,31 @@
+ body {
+   background-image: url("../images/background.jpg");
+   
+ }
+
+#container {
+position: relative;
+width: 90%;
+margin: 0 auto;
+padding: 5px;
+background-color: ivory;
+}
+
+h2 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 200%;
+	}
+	
+h4 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+    font: bold;	
+	font-size: 125%;	
+	}
+	
+.date 
+{	
+font-family: "old-standard","droid-sans",serif;
+font-size: 110%;
+	}
